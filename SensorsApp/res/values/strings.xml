@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">SensorsApp</string>
     <string name="menu_settings">Settings</string>
     <string name="QR_Scan_Sensor">QR Scan</string>
+    <string name="QR_Generate_Sensor">QR It!</string>
     <string name="No_Value_Text">No value has been set</string>
-    <string name="Text_Field_Hint">Enter text</string> 
+    <string name="Text_Field_Hint">Enter text</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_sensors_view">Sensors View Activity</string>
+    <string name="Linear_Acc">Linear Accelerator</string>
+    <string name="Azimuth">Show Azimuth</string>
+    <string name="Light">Show Light</string>
+    <string name="Pressure">Show Pressure</string>
+
 </resources>
